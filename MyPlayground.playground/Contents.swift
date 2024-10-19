@@ -1,5 +1,7 @@
 import Cocoa
 
+// 100 Days of SwiftUI
+
 // Day 1
 
 var variable = "Hello world" // var - declares variable, can be changed
